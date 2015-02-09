@@ -1,5 +1,10 @@
 
 .DS_Store
 tmp
+system
+index.php
+php.ini
+install
+admin
 
 
