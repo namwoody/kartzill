@@ -3,6 +3,6 @@ admin/config.php
 .DS_Store
 tmp
 php.ini
-system
+
 install
 
