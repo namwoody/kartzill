@@ -527,11 +527,15 @@ clear:both;
     clear: both;
 }
 
+.d {
 
+	
+}
 .headercms {
     margin: 0 auto;
     position: relative;}
-.main-menu{width:1250px; margin:0 auto;background-color:#fff;
+  .main-menu{width:1250px; margin:0 auto;
+	background-color:#fff;
      border-bottom: 3px solid #000;
 	height:56px;}
 
