@@ -531,7 +531,9 @@ clear:both;
 .headercms {
     margin: 0 auto;
     position: relative;}
-.main-menu{width:1250px; margin:0 auto;background-color:#313131;height:56px;}
+.main-menu{width:1250px; margin:0 auto;background-color:#fff;
+     border-bottom: 3px solid #000;
+	height:56px;}
 
 .nav-responsive { display:none;}
 .responsive-menu
@@ -549,7 +551,7 @@ clear:both;
 	position: relative;
 	float: left;
 	z-index: 20;
-	background-color:#313131;
+	_background-color:#313131;
 }
 .main-menu > ul > li:hover {
 } 
