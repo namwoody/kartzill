@@ -1,4 +1,11 @@
 
 .DS_Store
-
+admin
+install
+system
+config.php
+crossdomain.xml
+index.php
+php.ini
+tmp
 
