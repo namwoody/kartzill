@@ -531,7 +531,7 @@ clear:both;
 .headercms {
     margin: 0 auto;
     position: relative;}
-.main-menu{width:1250px; margin:0 auto;background-color:#313131;height:56px;}
+.main-menu{width:1250px; margin:0 auto;_background-color:#313131;height:56px;}
 
 .nav-responsive { display:none;}
 .responsive-menu
