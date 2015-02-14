@@ -1,5 +1,6 @@
 <?php
 // HTTP
+
 define('HTTP_SERVER', 'http://localhost:8000/admin/');
 define('HTTP_CATALOG', 'http://localhost:8000/');
 
@@ -27,4 +28,5 @@ define('DB_HOSTNAME', '127.0.0.1');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_DATABASE', 'kart_zill');
+=======
 define('DB_PREFIX', 'oc_');
