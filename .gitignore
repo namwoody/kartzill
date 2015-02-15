@@ -1,21 +1,21 @@
 # Config and Htaccess Files
 .htaccess
-config.php
-/admin/config.php
+*.php
+admin/*.php
 
 # System Cache Files
-/system/cache/*
+system/cache/*
 !/system/cache/index.html
 
 # Image File
 !/image/no_image.jpg
 
 # Image Cache Files
-/image/cache/*
+image/cache/*
 !/image/cache/index.html
 
 # Modification Files
-/system/modification/*
+system/modification/*
 !/system/modification/index.html
 
 # Templates Files
