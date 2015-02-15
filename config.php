@@ -1,28 +1,29 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://kartzill.com/');
+
+define('HTTP_SERVER', 'http://localhost:8000/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://kartzill.com/');
+define('HTTPS_SERVER', 'http://localhost:8000/');
 
 // DIR
-define('DIR_APPLICATION', '/home/forge/kartzill.com/public/kart-zill/catalog/');
-define('DIR_SYSTEM', '/home/forge/kartzill.com/public/kart-zill/system/');
-define('DIR_LANGUAGE', '/home/forge/kartzill.com/public/kart-zill/catalog/language/');
-define('DIR_TEMPLATE', '/home/forge/kartzill.com/public/kart-zill/catalog/view/theme/');
-define('DIR_CONFIG', '/home/forge/kartzill.com/public/kart-zill/system/config/');
-define('DIR_IMAGE', '/home/forge/kartzill.com/public/kart-zill/image/');
-define('DIR_CACHE', '/home/forge/kartzill.com/public/kart-zill/system/cache/');
-define('DIR_DOWNLOAD', '/home/forge/kartzill.com/public/kart-zill/system/download/');
-define('DIR_UPLOAD', '/home/forge/kartzill.com/public/kart-zill/system/upload/');
-define('DIR_MODIFICATION', '/home/forge/kartzill.com/public/kart-zill/system/modification/');
-define('DIR_LOGS', '/home/forge/kartzill.com/public/kart-zill/system/logs/');
+define('DIR_APPLICATION', '/Users/unobab/Desktop/sites/kartzill/catalog/');
+define('DIR_SYSTEM', '/Users/unobab/Desktop/sites/kartzill/system/');
+define('DIR_LANGUAGE', '/Users/unobab/Desktop/sites/kartzill/catalog/language/');
+define('DIR_TEMPLATE', '/Users/unobab/Desktop/sites/kartzill/catalog/view/theme/');
+define('DIR_CONFIG', '/Users/unobab/Desktop/sites/kartzill/system/config/');
+define('DIR_IMAGE', '/Users/unobab/Desktop/sites/kartzill/image/');
+define('DIR_CACHE', '/Users/unobab/Desktop/sites/kartzill/system/cache/');
+define('DIR_DOWNLOAD', '/Users/unobab/Desktop/sites/kartzill/system/download/');
+define('DIR_UPLOAD', '/Users/unobab/Desktop/sites/kartzill/system/upload/');
+define('DIR_MODIFICATION', '/Users/unobab/Desktop/sites/kartzill/system/modification/');
+define('DIR_LOGS', '/Users/unobab/Desktop/sites/kartzill/system/logs/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', '104.131.107.152');
-define('DB_USERNAME', 'forge');
-define('DB_PASSWORD', 'vNgnyVEKVFShH0hzz6uT');
-define('DB_DATABASE', 'kart-zill');
-define('DB_PREFIX', 'oc_');
+define('DB_HOSTNAME', '127.0.0.1');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', 'kart_zill');
 
+define('DB_PREFIX', 'oc_');
