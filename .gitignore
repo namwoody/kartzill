@@ -2,6 +2,7 @@
 .htaccess
 config.php
 admin/*.php
+*.ini
 
 # System Cache Files
 system/cache/*
