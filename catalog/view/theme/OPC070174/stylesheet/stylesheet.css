@@ -2701,11 +2701,12 @@ Megnor www.templatemela.com - Start*/
 /* set category*/
 
 .box .box-category-heading {
-    background: url("../image/megnor/category.jpg") no-repeat scroll -6px 0 #2fb991;
-    color: #fff;
+    background: url("../image/megnor/category.jpg") no-repeat scroll -6px 0 #edac0a;
+    color: #373737;
     font-family: "Archivo Narrow",sans-serif;
     font-size: 18px;
     padding: 10px 0;
+    text-shadow:0 0 2px(0,0,0,0.5);
     text-transform: uppercase;
 }
 
