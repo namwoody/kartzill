@@ -571,7 +571,7 @@ clear:both;
 .main-menu a:hover { text-decoration:none}
 
 .main-menu > ul > li:hover > a {
-	background: #646464;
+	background: #edac0a;
 	_border-bottom: 2px solid #edac0a;	
 }
 .main-menu > ul > li > ul {
@@ -1578,7 +1578,7 @@ border: 1px solid #ddd;
    
 }
 #cart .text-right > a{
-	background-color: #2fb991;
+	background-color: #edac0a;
     border: medium none;
     border-radius: 0;
 	 -webkit-border-radius: 0px;
