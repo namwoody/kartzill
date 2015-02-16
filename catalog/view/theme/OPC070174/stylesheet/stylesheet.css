@@ -520,7 +520,7 @@ clear:both;
 /* menu */
 .nav-inner{display:none;}
 .nav-inner-cms {
-    background:#999999;
+    _background:#999999;
 	
 }
 .header-cms {
