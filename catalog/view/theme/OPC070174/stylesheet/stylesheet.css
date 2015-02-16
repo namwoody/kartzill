@@ -2701,7 +2701,7 @@ Megnor www.templatemela.com - Start*/
 /* set category*/
 
 .box .box-category-heading {
-    _background: url("../image/megnor/category.jpg") no-repeat scroll -6px 0 #2fb991;
+    background: url("../image/megnor/category.jpg") no-repeat scroll -6px 0 #2fb991;
     color: #fff;
     font-family: "Archivo Narrow",sans-serif;
     font-size: 18px;
