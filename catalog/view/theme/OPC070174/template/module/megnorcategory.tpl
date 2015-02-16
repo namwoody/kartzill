@@ -1,5 +1,7 @@
 <div class="box">
-  <div class="box-category-heading"><span class="heading-img"></span><?php echo $heading_title; ?></div>
+  <div class="box-category-heading"><span class="heading-img"></span>
+   All categories
+  </div>
   <div class="box-content">
 <ul id="nav-one" class="dropmenu">
   <?php foreach ($categories as $category) { ?>
