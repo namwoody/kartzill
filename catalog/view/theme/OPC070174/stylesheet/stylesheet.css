@@ -571,8 +571,8 @@ clear:both;
 .main-menu a:hover { text-decoration:none}
 
 .main-menu > ul > li:hover > a {
-	_background: #646464;
-	border-bottom: 2px solid #edac0a;	
+	background: #646464;
+	_border-bottom: 2px solid #edac0a;	
 }
 .main-menu > ul > li > ul {
 	display: none;
