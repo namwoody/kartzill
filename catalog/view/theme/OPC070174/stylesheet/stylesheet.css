@@ -95,13 +95,13 @@ header .container{height:110px; background:#fff;padding:0 25px; box-shadow:0 0 7
 }
 .box-cms-content .content{ padding:18px 3px;}
 .shadow-left {
-    background: url("../image/megnor/shadoleft.jpg") repeat-y scroll 0 0 transparent;
+    _background: url("../image/megnor/shadoleft.jpg") repeat-y scroll 0 0 transparent;
     height: 100%;
     left: 0px;
     position: absolute;
 }
 .shadow-right {
-    background: url("../image/megnor/shadoright.jpg") repeat-y scroll 0 0 transparent;
+    _background: url("../image/megnor/shadoright.jpg") repeat-y scroll 0 0 transparent;
     height: 100%;
     position: absolute;
     right: 0px;
