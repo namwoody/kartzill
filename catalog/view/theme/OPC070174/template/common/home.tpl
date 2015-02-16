@@ -1,7 +1,7 @@
 <?php echo $header; ?>
 
 
-<div class="container" id="container-middle">
+<div class="container" style="padding-top:20px;">
   <div class="row"><?php echo $column_left; ?>
     <?php if ($column_left && $column_right) { ?>
     <?php $class = 'col-sm-6'; ?>
