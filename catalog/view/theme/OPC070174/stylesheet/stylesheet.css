@@ -531,7 +531,7 @@ clear:both;
 .headercms {
     margin: 0 auto;
     position: relative;}
-.main-menu{width:1250px; margin:0 auto;_background-color:#313131;height:56px;}
+.main-menu{width:1250px; margin:0 auto;background-color:#fff;height:56px;}
 
 .nav-responsive { display:none;}
 .responsive-menu
@@ -560,7 +560,7 @@ clear:both;
 	 color: #000;
     display: block;
     font-family: sans-serif;
-    font-size: 13px;
+    font-size: 18px;
     font-weight: normal;
     margin-bottom: 0;
     padding: 18px 15px;
