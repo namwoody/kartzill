@@ -536,7 +536,7 @@ clear:both;
 .nav-responsive { display:none;}
 .responsive-menu
  {
- 	background-color: #313131;
+ 	_background-color: #313131;
     height: 55px;
 	/*overflow:hidden; HIDE CATEGORIES THOSE ARE OUT OF MANU.  */	  
 }
@@ -549,7 +549,7 @@ clear:both;
 	position: relative;
 	float: left;
 	z-index: 20;
-	background-color:#313131;
+	_background-color:#313131;
 }
 .main-menu > ul > li:hover {
 } 
