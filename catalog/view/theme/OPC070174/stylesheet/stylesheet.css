@@ -536,7 +536,7 @@ clear:both;
 .nav-responsive { display:none;}
 .responsive-menu
  {
- 	_background-color: #313131;
+ 	_background-color: #fff;
     height: 55px;
 	/*overflow:hidden; HIDE CATEGORIES THOSE ARE OUT OF MANU.  */	  
 }
