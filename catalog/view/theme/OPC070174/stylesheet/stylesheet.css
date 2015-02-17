@@ -2521,7 +2521,7 @@ Megnor www.templatemela.com - Start*/
     text-transform: uppercase;
 }
 .htabs a.selected, .htabs a:hover{
-	background:#fe646f;
+	background:#edac0a;
     border-bottom: 2px solid #2fb991;
     color: #ffffff;
 }
