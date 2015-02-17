@@ -2493,6 +2493,7 @@ Megnor www.templatemela.com - Start*/
 	height: 43px;
 	line-height: 16px;
 	border-bottom: 1px solid #eee;
+	padding-top: 10px;
 }
 .etabs {
     display: inline-block;
@@ -2521,7 +2522,7 @@ Megnor www.templatemela.com - Start*/
     text-transform: uppercase;
 }
 .htabs a.selected, .htabs a:hover{
-	background:#edac0a;
+	background:#c0f68a;
     border-bottom: 2px solid #2fb991;
     color: #ffffff;
 }
