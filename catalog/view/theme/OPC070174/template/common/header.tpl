@@ -57,6 +57,38 @@
 <script src="catalog/view/javascript/megnor/tabs.js" type="text/javascript"></script>
 <!-- Megnor www.templatemela.com - End -->
 
+<!-- jquery zoom -- >
+
+<script src="catalog/view/javascript/jqzoom/jquery.jqzoom-core.js"></script>
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/<?php echo $mytemplate; ?>/stylesheet/jqzoom/jquery.jqzoom.css" />
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+  $('.jqzoom').jqzoom({
+            zoomType: 'standard',
+            lens:true,
+            preloadImages: false,
+            alwaysOn:false
+        });
+  
+});
+
+
+</script>
+
+<!-- end jquery zoom -->
+
+
+
+
+
+
+
+
+
+
 <script src="catalog/view/javascript/common.js" type="text/javascript"></script>
 
 <?php foreach ($scripts as $script) { ?>

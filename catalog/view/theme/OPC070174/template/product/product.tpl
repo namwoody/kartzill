@@ -35,7 +35,7 @@
     <ul class="left product-image thumbnails">
       <?php if ($thumb) { ?>      
 	  <!-- Megnor Cloud-Zoom Image Effect Start -->
-	  	<li class="image"><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li> 
+	  	<li class="image"><a class="jqzoom" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li> 
       <?php } ?>
       <?php if ($images) { ?>	  
 	  	 <?php 
