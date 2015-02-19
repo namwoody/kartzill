@@ -57,7 +57,7 @@
 <script src="catalog/view/javascript/megnor/tabs.js" type="text/javascript"></script>
 <!-- Megnor www.templatemela.com - End -->
 
-<!-- jquery zoom -- >
+
 
 <script src="catalog/view/javascript/jqzoom/jquery.jqzoom-core.js"></script>
 
@@ -78,7 +78,6 @@ $(document).ready(function() {
 
 </script>
 
-<!-- end jquery zoom -->
 
 
 
