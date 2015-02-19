@@ -112,9 +112,7 @@
               <h2><?php echo $special; ?></h2>
             </li>
             <?php } ?>
-            <?php if ($tax) { ?>
-            <li class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></li>
-            <?php } ?>
+           
 				
             <?php if ($points) { ?>
 			 <br/>
