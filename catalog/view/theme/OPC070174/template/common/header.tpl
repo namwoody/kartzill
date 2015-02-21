@@ -163,7 +163,6 @@
 	<div class="main-menu" id="cms-menu">
         <ul class="main-navigation">
 
-			<li class="first level0"><a href="<?php echo $affiliate; ?>"><?php echo $text_affiliate; ?></a></li>
 			
             <li class="level0"><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
             
