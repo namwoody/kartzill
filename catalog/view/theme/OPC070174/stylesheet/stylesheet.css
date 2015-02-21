@@ -1567,7 +1567,7 @@ footer h5 {
 	-ms-transition-duration:500ms;
 	-o-transition-duration: 500ms;}
 #product .form-group #button-cart , #product .form-group.required .btn-upload ,.pull-left .btn.btn-default , .panel-body .pull-right .btn.btn-primary , #content .affiliate-desc.pull-right .btn.btn-primary ,#content .account.pull-right .btn.btn-primary ,#content .contact.pull-right .btn.btn-primary , #tab-review .pull-right .btn.btn-primary ,.checkout-cart .pull-right .btn.btn-primary { 
-	background-color: #2fb991;
+	background-color: #edac0a;
     border: medium none;
     border-radius: 0;
 	 -webkit-border-radius: 0px;
