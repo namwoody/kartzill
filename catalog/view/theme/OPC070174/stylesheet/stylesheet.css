@@ -1099,7 +1099,7 @@ background: url("../image/megnor/ajax-loader.gif")50% 50% no-repeat #fff;
 #content {
 	min-height: 600px;
 	  margin-bottom: 20px;
-	  padding-top: 40px;
+	  _padding-top: 40px;
 }
 .common-home #content {margin-bottom:0;}
 
