@@ -68,7 +68,11 @@
 <!-- end sticker -->
 
 
-
+<script>
+  $(document).ready(function(){
+    $("#sticker").sticky({topSpacing:0});
+  });
+</script>
 
 
 
@@ -143,7 +147,7 @@
   </div>
 </nav>
 <header>
-  <div class="container">
+  <div class="container" id="sticker">
     <div class="row">
       <div class="col-sm-4 header-logo">
         <div id="logo">
