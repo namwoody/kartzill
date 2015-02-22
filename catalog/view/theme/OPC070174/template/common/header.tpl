@@ -60,7 +60,12 @@
 
 
 
+<!--- sticker -->
+<script src="catalog/view/javascript/jquery.sticky.js" type="text/javascript"></script>
 
+
+
+<!-- end sticker -->
 
 
 
