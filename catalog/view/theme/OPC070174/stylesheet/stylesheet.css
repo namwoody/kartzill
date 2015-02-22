@@ -636,7 +636,7 @@ clear:both;
 	display: block;
 	white-space: nowrap; 
 }
-.responsive-menu .main-navigation li a{ color: #cecece;
+.responsive-menu .main-navigation li a{ color: #fff;
     display: block;
     padding: 8px 12px;
     white-space: nowrap;}
