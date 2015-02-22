@@ -379,7 +379,7 @@ span.customSelect.changed {
 /* Responsive menu Css Start */
 	.nav-responsive span { display:inline-block;}
 	.ie7 .nav-responsive span { display:inline;}
-	.nav-responsive { cursor:pointer; display:none;  }
+	.nav-responsive { cursor:pointer; display:none; background: #FEA  }
 	.main-navigation  ul  li{ list-style:none; position:relative;}
 	.nav-responsive .expandable{
 		background: url("../../image/megnor/sprite.png") no-repeat scroll -1px -577px transparent;
