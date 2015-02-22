@@ -70,7 +70,7 @@
 
 <script>
   $(document).ready(function(){
-    $("#sticker").sticky({topSpacing:0});
+    $("#top").sticky({topSpacing:0});
   });
 </script>
 
@@ -147,7 +147,7 @@
   </div>
 </nav>
 <header>
-  <div class="container" id="sticker">
+  <div class="container">
     <div class="row">
       <div class="col-sm-4 header-logo">
         <div id="logo">
