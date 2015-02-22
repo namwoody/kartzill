@@ -6378,10 +6378,10 @@ button.close {
 	float:left !important;
 }
 .tm_headerlinkmenu{
-    background:#999;
+    _background:#999;
     color: #ffffff;
     display: block;
-    float: left;
+    float: right;
     padding: 10px 0;
     width: 33.3% !important;
     z-index: 999;
