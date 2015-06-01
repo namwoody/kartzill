@@ -2513,7 +2513,7 @@ Megnor www.templatemela.com - Start*/
 	height: 43px;
 	line-height: 16px;
 	border-bottom: 1px solid #eee;
-	padding-top: 10px;
+	_padding-top: 10px;
 }
 .etabs {
     display: inline-block;
