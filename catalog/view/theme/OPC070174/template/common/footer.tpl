@@ -2,9 +2,7 @@
  	<div class="content_footer_top"><?php echo $footertop; ?> </div>
   	<div id="footer" class="container">
    	  <div >
-			<div class="col-sm-3 column first">
-				<div class="content_footer_left"><?php echo $footerleft; ?> </div>
-			</div>
+			
 			
       		<?php if ($informations) { ?>
 			<div class="col-sm-3 column second">
@@ -21,7 +19,7 @@
       		<div class="col-sm-3 column third">
         		<h5><?php echo $text_extra; ?></h5>
         			<ul class="list-unstyled">
-					  <li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
+					 
 					  <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
 					  <li><a href="<?php echo $affiliate; ?>"><?php echo $text_affiliate; ?></a></li>
 					  <li><a href="<?php echo $special; ?>"><?php echo $text_special; ?></a></li>
